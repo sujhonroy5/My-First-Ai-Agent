@@ -1,1 +1,2 @@
-# My-First-Ai-Agent
+# My-First-Ai-Agent 
+A simple starter project to explore automation and basic AI workflows.
